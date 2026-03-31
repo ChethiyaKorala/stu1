@@ -45,7 +45,7 @@ app.get("/", (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>PreProdSE Server ready<span class="dot">!</span></h1>
+        <h1> Amme.... Mn awaaa amme<span class="dot">!</span></h1>
       </div>
     </body>
     </html>
